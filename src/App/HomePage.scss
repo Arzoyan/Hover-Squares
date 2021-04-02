@@ -1,0 +1,11 @@
+.selected-items {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.selected-item {
+    background-color: burlywood;
+    margin: 3px 0;
+    padding: 3px 0;
+}
